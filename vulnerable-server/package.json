@@ -1,0 +1,9 @@
+{
+  "name": "vercel-firewall-ssrf-vulnerable-server",
+  "version": "1.0.0",
+  "description": "Vulnerable server using @vercel/firewall to demonstrate SSRF via Host header injection",
+  "main": "server.js",
+  "dependencies": {
+    "@vercel/firewall": "1.2.6"
+  }
+}
